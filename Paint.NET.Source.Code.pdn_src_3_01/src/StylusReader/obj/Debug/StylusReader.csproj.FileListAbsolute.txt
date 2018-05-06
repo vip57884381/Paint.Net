@@ -1,0 +1,7 @@
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\StylusReader\bin\Debug\PaintDotNet.StylusReader.dll
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\StylusReader\bin\Debug\PaintDotNet.StylusReader.pdb
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\StylusReader\bin\Debug\Microsoft.Ink.dll
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\StylusReader\bin\Debug\Microsoft.Ink.xml
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\StylusReader\obj\Debug\ResolveAssemblyReference.cache
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\StylusReader\obj\Debug\PaintDotNet.StylusReader.dll
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\StylusReader\obj\Debug\PaintDotNet.StylusReader.pdb

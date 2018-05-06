@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="paintdotnet">
+</Property><Property Name="Solution File" Value="C:\Users\RLong\Desktop\New folder\src\paintdotnet.sln">
+</Property><Property Name="Date" Value="Tuesday, September 5, 2017">
+</Property><Property Name="Time" Value="9:49 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="paintdotnet.sln" Description="File successfully backed up as C:\Users\RLong\Desktop\New folder\src\paintdotnet.sln.old">
+</Event><Event ErrorLevel="0" Project="paintdotnet" Source="paintdotnet.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\paintdotnet.csproj.old">
+</Event><Event ErrorLevel="0" Project="paintdotnet" Source="paintdotnet.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="paintdotnet" Source="paintdotnet.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Setup-Config" Source="Setup-Config\Setup-Config.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Setup-Config" Source="Setup-Config\Setup-Config.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="Setup-Config" Source="Setup-Config\Setup-Config.vcproj" Description="Project file successfully backed up as 'C:\Users\RLong\Desktop\New folder\src\Setup-Config\Setup-Config.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="Setup-Config" Source="Setup-Config\Setup-Config.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="Setup-Config" Source="Setup-Config\Setup-Config.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PdnLib" Source="PdnLib\PdnLib.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\PdnLib\PdnLib.csproj.old">
+</Event><Event ErrorLevel="0" Project="PdnLib" Source="PdnLib\PdnLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PdnLib" Source="PdnLib\PdnLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Effects" Source="Effects\Effects.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\Effects\Effects.csproj.old">
+</Event><Event ErrorLevel="0" Project="Effects" Source="Effects\Effects.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Effects" Source="Effects\Effects.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="StylusReader" Source="StylusReader\StylusReader.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\StylusReader\StylusReader.csproj.old">
+</Event><Event ErrorLevel="0" Project="StylusReader" Source="StylusReader\StylusReader.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="StylusReader" Source="StylusReader\StylusReader.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SystemLayer" Source="SystemLayer\SystemLayer.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\SystemLayer\SystemLayer.csproj.old">
+</Event><Event ErrorLevel="0" Project="SystemLayer" Source="SystemLayer\SystemLayer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SystemLayer" Source="SystemLayer\SystemLayer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Data" Source="Data\Data.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\Data\Data.csproj.old">
+</Event><Event ErrorLevel="0" Project="Data" Source="Data\Data.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Data" Source="Data\Data.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SetupNgen" Source="SetupNgen\SetupNgen.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\SetupNgen\SetupNgen.csproj.old">
+</Event><Event ErrorLevel="0" Project="SetupNgen" Source="SetupNgen\SetupNgen.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SetupNgen" Source="SetupNgen\SetupNgen.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Resources" Source="Resources\Resources.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\Resources\Resources.csproj.old">
+</Event><Event ErrorLevel="0" Project="Resources" Source="Resources\Resources.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Resources" Source="Resources\Resources.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Strings" Source="Strings\Strings.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="Strings" Source="Strings\Strings.vcproj" Description="Project file successfully backed up as 'C:\Users\RLong\Desktop\New folder\src\Strings\Strings.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="Strings" Source="Strings\Strings.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="Strings" Source="Strings\Strings.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SetupFrontEnd" Source="SetupFrontEnd\SetupFrontEnd.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\SetupFrontEnd\SetupFrontEnd.csproj.old">
+</Event><Event ErrorLevel="0" Project="SetupFrontEnd" Source="SetupFrontEnd\SetupFrontEnd.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SetupFrontEnd" Source="SetupFrontEnd\SetupFrontEnd.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SetupShim" Source="SetupShim\SetupShim.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="SetupShim" Source="SetupShim\SetupShim.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="SetupShim" Source="SetupShim\SetupShim.vcproj" Description="Project file successfully backed up as 'C:\Users\RLong\Desktop\New folder\src\SetupShim\SetupShim.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="SetupShim" Source="SetupShim\SetupShim.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="SetupShim" Source="SetupShim\SetupShim.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Help" Source="Help\Help.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\Help\Help.csproj.old">
+</Event><Event ErrorLevel="0" Project="Help" Source="Help\Help.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Help" Source="Help\Help.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ShellExtension_x86" Source="ShellExtension\ShellExtension_x86\ShellExtension_x86.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="ShellExtension_x86" Source="ShellExtension\ShellExtension_x86\ShellExtension_x86.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="ShellExtension_x86" Source="ShellExtension\ShellExtension_x86\ShellExtension_x86.vcproj" Description="Project file successfully backed up as 'C:\Users\RLong\Desktop\New folder\src\ShellExtension\ShellExtension_x86\ShellExtension_x86.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="ShellExtension_x86" Source="ShellExtension\ShellExtension_x86\ShellExtension_x86.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="ShellExtension_x86" Source="ShellExtension\ShellExtension_x86\ShellExtension_x86.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ShellExtension_x64" Source="ShellExtension\ShellExtension_x64\ShellExtension_x64.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="ShellExtension_x64" Source="ShellExtension\ShellExtension_x64\ShellExtension_x64.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="ShellExtension_x64" Source="ShellExtension\ShellExtension_x64\ShellExtension_x64.vcproj" Description="Project file successfully backed up as 'C:\Users\RLong\Desktop\New folder\src\ShellExtension\ShellExtension_x64\ShellExtension_x64.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="ShellExtension_x64" Source="ShellExtension\ShellExtension_x64\ShellExtension_x64.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="ShellExtension_x64" Source="ShellExtension\ShellExtension_x64\ShellExtension_x64.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WiaProxy32" Source="WiaProxy32\WiaProxy32.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\WiaProxy32\WiaProxy32.csproj.old">
+</Event><Event ErrorLevel="0" Project="WiaProxy32" Source="WiaProxy32\WiaProxy32.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WiaProxy32" Source="WiaProxy32\WiaProxy32.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="GeneratedCode" Source="GeneratedCode\GeneratedCode.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="GeneratedCode" Source="GeneratedCode\GeneratedCode.vcproj" Description="Project file successfully backed up as 'C:\Users\RLong\Desktop\New folder\src\GeneratedCode\GeneratedCode.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="GeneratedCode" Source="GeneratedCode\GeneratedCode.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="GeneratedCode" Source="GeneratedCode\GeneratedCode.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PdnRepair" Source="PdnRepair\PdnRepair.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\PdnRepair\PdnRepair.csproj.old">
+</Event><Event ErrorLevel="0" Project="PdnRepair" Source="PdnRepair\PdnRepair.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PdnRepair" Source="PdnRepair\PdnRepair.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UpdateMonitor" Source="UpdateMonitor\UpdateMonitor.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\UpdateMonitor\UpdateMonitor.csproj.old">
+</Event><Event ErrorLevel="0" Project="UpdateMonitor" Source="UpdateMonitor\UpdateMonitor.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UpdateMonitor" Source="UpdateMonitor\UpdateMonitor.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Resources.mui" Source="Resources.mui\Resources.mui.csproj" Description="Project file successfully backed up as C:\Users\RLong\Desktop\New folder\src\Resources.mui\Resources.mui.csproj.old">
+</Event><Event ErrorLevel="0" Project="Resources.mui" Source="Resources.mui\Resources.mui.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Resources.mui" Source="Resources.mui\Resources.mui.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="paintdotnet.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="paintdotnet.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="paintdotnet" Source="paintdotnet.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PdnLib" Source="PdnLib\PdnLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Effects" Source="Effects\Effects.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="StylusReader" Source="StylusReader\StylusReader.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SystemLayer" Source="SystemLayer\SystemLayer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Data" Source="Data\Data.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SetupNgen" Source="SetupNgen\SetupNgen.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Resources" Source="Resources\Resources.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SetupFrontEnd" Source="SetupFrontEnd\SetupFrontEnd.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Help" Source="Help\Help.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WiaProxy32" Source="WiaProxy32\WiaProxy32.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PdnRepair" Source="PdnRepair\PdnRepair.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="UpdateMonitor" Source="UpdateMonitor\UpdateMonitor.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Resources.mui" Source="Resources.mui\Resources.mui.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

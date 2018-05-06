@@ -1,0 +1,5 @@
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\UpdateMonitor\bin\Debug\UpdateMonitor.exe
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\UpdateMonitor\bin\Debug\UpdateMonitor.pdb
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\UpdateMonitor\obj\Debug\ResolveAssemblyReference.cache
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\UpdateMonitor\obj\Debug\UpdateMonitor.exe
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\UpdateMonitor\obj\Debug\UpdateMonitor.pdb

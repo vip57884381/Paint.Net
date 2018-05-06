@@ -1,0 +1,11 @@
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\Resources\bin\Debug\PaintDotNet.Resources.dll
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\Resources\bin\Debug\PaintDotNet.Resources.pdb
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\Resources\bin\Debug\PaintDotNet.SystemLayer.dll
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\Resources\bin\Debug\Microsoft.Ink.dll
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\Resources\bin\Debug\PaintDotNet.StylusReader.dll
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\Resources\bin\Debug\Microsoft.Ink.xml
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\Resources\bin\Debug\PaintDotNet.StylusReader.pdb
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\Resources\bin\Debug\PaintDotNet.SystemLayer.pdb
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\Resources\obj\Debug\ResolveAssemblyReference.cache
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\Resources\obj\Debug\PaintDotNet.Resources.dll
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\Resources\obj\Debug\PaintDotNet.Resources.pdb

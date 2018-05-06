@@ -1,0 +1,14 @@
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\bin\Debug\WiaProxy32.exe
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\bin\Debug\WiaProxy32.pdb
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\bin\Debug\Interop.WIA.dll
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\bin\Debug\PaintDotNet.Resources.dll
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\bin\Debug\PaintDotNet.SystemLayer.dll
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\bin\Debug\PaintDotNet.StylusReader.dll
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\bin\Debug\Microsoft.Ink.dll
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\bin\Debug\PaintDotNet.SystemLayer.pdb
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\bin\Debug\PaintDotNet.StylusReader.pdb
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\bin\Debug\Microsoft.Ink.xml
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\bin\Debug\PaintDotNet.Resources.pdb
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\obj\x86\Debug\WiaProxy32.exe
+C:\GoogleDrive\projects\github\Paint.NET\Paint.NET.Source.Code.pdn_src_3_01\src\WiaProxy32\obj\x86\Debug\WiaProxy32.pdb
